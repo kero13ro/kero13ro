@@ -8,25 +8,6 @@ I'm a passionate Front-end Developer with 6+ years of experience in Web App deve
 - 🤝 Experience in mentoring and team collaboration
 - 🌟 Passionate about optimizing performance and user experience
 
-## 💼 Work Experience
-
-### Senior Front-end Developer @ JCG Tech (2021/9 - Present)
-- Built 2 video/game products from scratch using Vue 3, TypeScript, and Vite
-- Implemented HLS streaming solutions and designed front-end architectures
-- Created automated translation pipeline supporting 3 locales (80% time reduction)
-- Led weekly team meetings for knowledge sharing and workflow improvements
-
-### Front-end Developer @ Tyr Tech (2019/10 - 2021/9)
-- Developed e-commerce platform and ERP system using Nuxt
-- Achieved 82% website size reduction through various optimizations
-- Built video-communication MVP using WebRTC and Electron
-- Mentored 3 junior engineers and established coding standards
-
-### Web Front-end Developer @ Minmax Tech (2018/5 - 2019/9)
-- Developed custom websites including eCommerce and medical systems
-- Created 6 large RWD websites with interactive UIs and animations
-- Implemented cross-browser compatibility and modern web features
-
 ## 🛠️ Technical Skills
 
 ### Front-End
@@ -60,8 +41,8 @@ I'm a passionate Front-end Developer with 6+ years of experience in Web App deve
 
 ## 📫 Get in Touch
 - 💬 Ask me about web development, architecture design, or optimization techniques
-- 📧 [Your Email]
-- 🔗 [LinkedIn Profile]
+- 📧 [Mail](ke13ro@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/eric-liao-754b07b3/)
 
 <!---
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kero13ro&show_icons=true&theme=dracula)
