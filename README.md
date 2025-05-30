@@ -1,12 +1,7 @@
 # Hi there 👋 
 
-I'm a passionate Front-end Developer with 6+ years of experience in Web App development. I love building products and transforming ideas into reality. I've successfully led 5 projects from the ground up and have 2+ years of experience in front-end architecture design.
-
-## 🚀 About Me
-- 🏗️ Building great web applications with modern technologies
-- 📈 Strong sense of product ownership and continuous improvement
-- 🤝 Experience in mentoring and team collaboration
-- 🌟 Passionate about optimizing performance and user experience
+I'm a passionate developer with 7 years of frontend experience across e-commerce, video streaming, animation, and gaming platforms. Skilled in product development, system design, and performance/user experience optimization.
+3 years of team leadership experience, driving process standardization and automation. Well-versed in the software development lifecycle and delivering effective technical solutions.
 
 ## 🛠️ Technical Skills
 
@@ -28,16 +23,6 @@ I'm a passionate Front-end Developer with 6+ years of experience in Web App deve
 - StackOverflow-like platform for exam questions and discussions
 - 50,000+ crawled national examination papers
 - Built with Nuxt 3, Supabase, and PostgreSQL
-
-### Video Communication App
-- Slack-like video calling app supporting 30+ simultaneous users
-- WebRTC, Electron, and Google Calendar API integration
-- Real-time screen sharing and scheduling features
-
-### Boutique Bags Mall
-- Full-featured e-commerce platform with live streaming
-- Blog system and member management
-- 82% size optimization through advanced techniques
 
 ## 📫 Get in Touch
 - 💬 Ask me about web development, architecture design, or optimization techniques
