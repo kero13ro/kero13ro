@@ -1,6 +1,7 @@
 # Hi there 👋 
 
 I'm a passionate developer with 7 years of frontend experience across e-commerce, video streaming, animation, and gaming platforms. Skilled in product development, system design, and performance/user experience optimization.
+<br/>
 3 years of team leadership experience, driving process standardization and automation. Well-versed in the software development lifecycle and delivering effective technical solutions.
 
 ## 🛠️ Technical Skills
