@@ -6,13 +6,13 @@ I'm a passionate developer with 7 years of frontend experience across e-commerce
 
 ## 🛠️ Technical Skills
 
-### Front-End
+### Frontend
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### Back-End & Tools
+### Backend & Tools
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -20,13 +20,14 @@ I'm a passionate developer with 7 years of frontend experience across e-commerce
 
 ## 🏆 Featured Projects
 
-### [Exam Paper Forum](https://www.highjump.tw/)
+### [Exam Paper Forum](https://jump-note-jbnyh3q72-kero13s-projects.vercel.app/)
 - StackOverflow-like platform for exam questions and discussions
 - 50,000+ crawled national examination papers
 - Built with Nuxt 3, Supabase, and PostgreSQL
 
 ## 📫 Get in Touch
 - 💬 Ask me about web development, architecture design, or optimization techniques
+- 🌈 [Blog](https://kero13.notion.site/)
 - 📧 [Mail](ke13ro@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/eric-liao-754b07b3/)
 
