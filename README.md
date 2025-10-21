@@ -1,8 +1,9 @@
 # Hi there 👋 
 
-I'm a passionate developer with 7 years of frontend experience across e-commerce, video streaming, animation, and gaming platforms. Skilled in product development, system design, and performance/user experience optimization.
-<br/>
-3 years of team leadership experience, driving process standardization and automation. Well-versed in the software development lifecycle and delivering effective technical solutions.
+I'm a passionate developer with 8 years of frontend experience with a systems-thinking mindset, solving business challenges through strategic technical decisions and strong ownership of outcomes.
+• 8+ years of experience designing and scaling frontend architectures
+• Automated workflows, cutting review time by 60% and deployment time by 70%
+• Improved iteration speed and Cross-functional collaboration across 7+ departments
 
 ## 🛠️ Technical Skills
 
@@ -18,16 +19,9 @@ I'm a passionate developer with 7 years of frontend experience across e-commerce
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-## 🏆 Featured Projects
-
-### [Exam Paper Forum](https://jump-note-jbnyh3q72-kero13s-projects.vercel.app/)
-- StackOverflow-like platform for exam questions and discussions
-- 50,000+ crawled national examination papers
-- Built with Nuxt 3, Supabase, and PostgreSQL
-
-## 📫 Get in Touch
+## Get in Touch
 - 💬 Ask me about web development, architecture design, or optimization techniques
-- 🌈 [Blog](https://kero13.notion.site/)
+- 🌈 [Blog](https://kero13ro.github.io/Code-Beyond)
 - 📧 [Mail](ke13ro@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/eric-liao-754b07b3/)
 
