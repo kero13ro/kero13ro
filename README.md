@@ -1,30 +1,38 @@
-# Hi there 👋 
+# Hi there 👋
 
-I'm a passionate developer with 8 years of frontend experience with a systems-thinking mindset, solving business challenges through strategic technical decisions and strong ownership of outcomes.
-• 8+ years of experience designing and scaling frontend architectures
-• Automated workflows, cutting review time by 60% and deployment time by 70%
-• Improved iteration speed and Cross-functional collaboration across 7+ departments
+I'm **Eric Liao**, a Staff Frontend Engineer with 8+ years of experience, having shipped 30+ products across live streaming games, e-commerce, and enterprise systems.
+
+- 🏗️ Specialize in frontend infrastructure: Monorepo architecture, performance optimization, and CI/CD
+- 👥 Lead a 5–8 person frontend team, focusing on technical decisions, cross-team PoCs, and engineering standards
+- ⚡ Reduced duplicated code by ~40% via shared packages, and bundle size by ~80% through code splitting & lazy loading
+- 🧪 Side projects in RAG SaaS, knowledge graphs, and developer tooling
 
 ## 🛠️ Technical Skills
 
-### Frontend
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+<table>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,react,vue,nuxtjs,tailwind,sass" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend & Realtime</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,firebase" /></td>
+  </tr>
+  <tr>
+    <td><b>DevOps & Tooling</b></td>
+    <td><img src="https://skillicons.dev/icons?i=vite,webpack,docker,githubactions" /></td>
+  </tr>
+</table>
 
-### Backend & Tools
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+## 🚀 Side Projects
 
-## Get in Touch
-- 💬 Ask me about web development, architecture design, or optimization techniques
+- 🎯 **[JumpVault](https://jumpvault.tw)** — RAG-powered exam prep SaaS indexing 80,000+ questions across 250+ categories with OpenAI Embeddings
+- 🕸️ **parse-dashboard** — Knowledge graph from past exams using local VLM + LLM pipeline, visualized via React + D3 force-directed graph
+- 📍 **[SpotDrop](https://spots.imagine.tw/)** — Map list sharing platform with Playwright + LLM scraping from videos, blogs, and Michelin guides
+- 🧩 **Chrome / Raycast tools** — Video subtitle & PDF summarizer (Chrome Web Store), and a vocabulary flashcard tool integrated with Raycast
+
+## 📫 Get in Touch
+
 - 🌈 [Blog](https://kero13ro.github.io/Code-Beyond)
-- 📧 [Mail](ke13ro@gmail.com)
+- 📧 [Mail](mailto:ke13ro@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/eric-liao-754b07b3/)
-
-<!---
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kero13ro&show_icons=true&theme=dracula)
--->
